@@ -94,7 +94,7 @@ export function Profile() {
                 </Typography>
               </div>
               <div className="flex items-center gap-2">
-                <BriefcaseIcon className="-mt-px h-4 w-4 text-blue-gray-500" />
+                <BriefcaseIcon className="-mt-px w-4 h-4 text-blue-gray-500" />
                 <Typography className="font-medium text-blue-gray-500">
                   Software Engineers - Sumar Bros
                 </Typography>
